@@ -1276,11 +1276,42 @@
             }
         },
         {
+            "key": "极兔",
+            "name": "🐇极兔影视",
+            "type": 3,
+            "api": "csp_AppFox",
+            "ext": {
+                "host": "http://www.mzd.asia"
+            }
+        },
+        {
+            "key": "二三",
+            "name": "🍊二三影视",
+            "type": 3,
+            "api": "csp_AppFox",
+            "ext": {
+                "host": "http://a.cfys.xn--fiqs8s"
+            }
+        },
+        {
             "key": "金牌影视",
             "name": "🏅金牌影视",
             "type": 3,
             "api": "csp_Jpys",
             "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
+        },
+        {
+            "key": "金牌",
+            "name": "🏅金牌影视备",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "csp_AppQi",
+            "ext": {
+                "site": "https://dtqj1.gg1080.com:443/dtjp.txt",
+                "dataKey": "kecbio48dsq131ed",
+                "dataIv": "kecbio48dsq131ed"
+            }
         },
         {
             "key": "猎手影视",
@@ -1311,6 +1342,38 @@
             "changeable": 1,
             "api": "csp_AppYsV2",
             "ext": "https://v.catcs.cc/api.php/v1.vod"
+        },
+        {
+            "key": "羊羊",
+            "name": "🐏羊羊影视",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "csp_AppMuou",
+            "ext": {
+                "url": "https://ht.zhenxun.love",
+                "name": "羊羊学院"
+            }
+        },
+        {
+            "key": "思念",
+            "name": "🍨思念影视",
+            "type": 3,
+            "api": "csp_AppFox",
+            "ext": {
+                "host": "https://snys2.xyz",
+                "timeout": 15,
+                "ver": 2
+            }
+        },
+        {
+            "key": "星空",
+            "name": "🛸星空APP",
+            "type": 3,
+            "api": "csp_AppFox",
+            "ext": {
+                "host": "http://fox.qwqfun.com"
+            }
         },
         {
             "key": "魔方",
@@ -3478,8 +3541,8 @@
             "ext": "./XBPQ/xbpq_555App.json"
         },
         {
-            "key": "天启影院",
-            "name": "🌤️天启影院",
+            "key": "影院",
+            "name": "🌤️影院",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -3489,7 +3552,7 @@
             "timeout": 120,
             "ext": {
                 "作者": "🍊小橙子/250930",
-                "站名": "天启影院",
+                "站名": "影院",
                 "请求头": "User-Agent@Mozilla/5.0 (Linux；； Android 9；； ASUS_I003DD Build/PI；； wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/68.0.3440.70 Mobile Safari/537.36&&Cookie@PHPSESSID=jblhg702mrkjghm1cffia4h7pa；； _ym_uid=1759217720606258750；； _ym_d=1759217720；； _ym_isad=2&&Accept@text/html,application/xhtml+xml,application/xml；；q=0.9,image/avif,image/webp,image/apng,*/*；；q=0.8,application/signed-exchange；；v=b3；；q=0.7&&Accept-Language@zh-CN,zh；；q=0.9",
                 "编码": "UTF-8",
                 "图片代理": "0",
@@ -30372,6 +30435,41 @@
                 "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+text hidden-xs\">&&</div>",
                 "分类url": "http://vedio.kundihulan.com/vodshow/{cateId}--------{catePg}---{year}.html",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4#"
+            }
+        },
+        {
+            "key": "天启影视",
+            "name": "🍊天启影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "请求头": "User-Agent@Mozilla/5.0 (Linux；； Android 9；； ASUS_I005DA Build/PI；； wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/68.0.3440.70 Mobile Safari/537.36&&Cookie@&&Accept@text/html,application/xhtml+xml,application/xml；；q=0.9,image/avif,image/webp,image/apng,*/*；；q=0.8,application/signed-exchange；；v=b3；；q=0.7&&Accept-Language@zh-CN,zh；；q=0.9",
+                "编码": "UTF-8",
+                "主页url": "https://www.tianqitv.net/",
+                "二次截取": "",
+                "数组": "/vod/&&</a>",
+                "标题": "title=\"&&\"",
+                "图片": "data-original=\"&&\"",
+                "副标题": "<span class=\"state\">&&</span>",
+                "链接": "/vod/+&&\"",
+                "影片年代": "年份：&&</p>",
+                "影片地区": "地区：&&</p>",
+                "影片类型": "类型：&&</p>",
+                "状态": "状态：&&</p>",
+                "导演": "导演：&&</p>",
+                "主演": "主演：&&</p>",
+                "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+text-indent: 28px;margin-top: 10px;\">&&</div>",
+                "线路二次截取": "",
+                "线路数组": "<li&&/li>",
+                "线路标题": "javascript:;\">&&<",
+                "播放二次截取": "",
+                "播放数组": "<ul class=\"episodes-list clearfix&&</ul>",
+                "倒序": "0",
+                "播放列表": "<a&&</a>",
+                "播放标题": ">&&</a>",
+                "播放链接": "href=\"&&\"",
+                "分类url": "https://www.tianqitv.net/vodlist/{cateId}&type=&area=&year={year}&page={catePg}",
+                "分类": "电影$1?catid=6#电视剧$2?catid=15#动漫$3?catid=0#综艺$4?catid=23#短剧$5?catid=0#"
             }
         },
         {
