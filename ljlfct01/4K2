@@ -389,11 +389,11 @@
       }
     },
     {
-      "key": "多多",
+      "key": "玩偶哥哥",
       "name": "💖臻彩网盘♦4k免扫♦",
       "type": 3,
       "playerType": 2,
-      "api": "csp_yydsys",
+      "api": "csp_Wogg",
       "jar": "http://14.103.129.80:999/奇迹云2kmax/jar/云1023.jar",
       "ext": {
         "tyitoken": "http://127.0.0.1:9978/file/TVBox/tyitoken.txt",
@@ -403,8 +403,58 @@
         "cookie": "http://14.103.129.80:999/暗黑4k奇迹/lib/ck1.txt",
         "uccookie": "http://14.103.129.80:999/%E6%9A%97%E9%BB%914k%E5%A5%87%E8%BF%B9/lib/z_uc.js",
         "tuctoken": "",
-        "site": "https://tv.yydsys.top/"
+        "site": "https://wogg.xxooo.cf/"
       }
+    },
+
+
+    {
+      "key": "UcXmV2",
+      "name": "🐂小二资源┃4K弹幕",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "jar": "http://我不是.摸鱼儿.com/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "timeout": 60,
+      "ext": "http://我不是.摸鱼儿.com/json/ex.json"
+    },
+    {
+      "key": "QuarkLaBiV2",
+      "name": "🖍︎蜡笔资源┃4K弹幕",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "jar": "http://我不是.摸鱼儿.com/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "timeout": 60,
+      "ext": "http://我不是.摸鱼儿.com/json/lb.json"
+    },
+    {
+      "key": "QuarkzzV2",
+      "name": "🏆️夸克至臻┃4K弹幕",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "jar": "http://我不是.摸鱼儿.com/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "timeout": 60,
+      "ext": "http://我不是.摸鱼儿.com/json/zz.json"
+    },
+    {
+      "key": "YYDSYS",
+      "name": "🍡多多网盘┃4K弹幕",
+      "type": 3,
+      "api": "csp_PanWebShare",
+      "jar": "http://我不是.摸鱼儿.com/d/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "timeout": 60,
+      "ext": "http://我不是.摸鱼儿.com/json/yyds.json"
     },
 
 
